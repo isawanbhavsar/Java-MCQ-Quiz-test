@@ -1,0 +1,13 @@
+
+Step 1:-
+You must create one "schema" and provide its name as "project" in your database.
+Step 2:-
+You must RUN the class CreateTest First.(we create question table and student table here
+and then by inserting a query we store the questions in (question table) database)
+NOTE ---> "You must run the CreateTest Class only once." 
+Step 3:-
+Run the TakeTest Class.
+Step 4:-
+Run the ShowResult Class.
+
+ 
